@@ -1,0 +1,3 @@
+#声明自定义的starter的配置类
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.zhouhao.study.hello.HelloServiceAutoConfiguration
